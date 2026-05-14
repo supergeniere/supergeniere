@@ -1,3 +1,1 @@
 - 👋 Ciao a tutti, sono @supergeniere
-- 👀
-- 📫 - supergeniere@gmail.com - 
