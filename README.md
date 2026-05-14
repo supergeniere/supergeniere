@@ -1,5 +1,3 @@
 - 👋 Ciao a tutti, sono @supergeniere
-- 👀 Sto studiando per diventare un full-stack-developer
-- 🌱 HTML / CSS / Node.js / Vue.js / Mongodb sono il mio pane quotidiano
-- 💞️ 
-- 📫  - supergeniere@gmail.com - 
+- 👀
+- 📫 - supergeniere@gmail.com - 
